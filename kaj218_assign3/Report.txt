@@ -1,0 +1,33 @@
+ceabc02825a5b908e474b053074ab53c  part1-output
+c95b27848ae8d4354d87678d075001f7  part2-output
+
+
+
+
+
+Collaboration:
+
+Collaborated with victoria martinez. (small). Just received help with debugging my part2 values.
+
+
+
+Correctness:
+
+I believe I did everything right to my current knowledge. 
+
+Comments:
+
+Ran into some issues with the LRU implementation, wasn't updating the reference count enough so I was getting random values.
+
+
+output:
+
+prints out the number of pagefaults found in part2.c when it is run.
+
+both part1 and part2 will print an error message and return -1 if there are not enough parameters, I.E an input and output file.
+
+
+Cody mangold
+OS cs-3733
+assignment 3
+
